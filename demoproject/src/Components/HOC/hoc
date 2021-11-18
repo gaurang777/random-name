@@ -1,0 +1,7 @@
+//Create HOC  for a person taking Corona Vaccine of type covishield,covaxin for 18plus return VaccinatedPerson
+
+
+
+const EnhancedComponent = higherOrderComponent(WrappedComponent) ;
+
+const VaccinatedPerson = (Person) => { vaccine }

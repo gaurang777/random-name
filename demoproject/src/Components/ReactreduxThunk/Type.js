@@ -1,0 +1,5 @@
+export const GET_USER_DETAILS = "GET_USER_DETAILS";
+export const ADD_USER_DETAIL = "ADD_USER_DETAIL";
+export const DELETE_USER_DETAIL = "DELETE_USER_DETAIL";
+    
+  
